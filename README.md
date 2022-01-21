@@ -18,3 +18,8 @@ Abaixo um exemplo dela:
 
 ## Indice
 
+1. Provisionamento de recurso
+2. Alterando o estado
+3. Trabalhando com workspace
+4. Trabalhando com modulos
+5. Persistindo estado externamente
