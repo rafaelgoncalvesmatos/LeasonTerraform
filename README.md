@@ -23,3 +23,13 @@ Abaixo um exemplo dela:
 3. Trabalhando com workspace
 4. Trabalhando com modulos
 5. Persistindo estado externamente
+
+## Provisionamento de recurso
+
+## Alterando o estado
+
+## Workspace
+
+## Modulos
+
+## Persistindo estado externamente
