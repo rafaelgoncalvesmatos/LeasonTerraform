@@ -10,7 +10,7 @@ O conceito de IAC ( Infrastructure as Code ) não é novo e já vem ganhando tra
 
 A linguagem que utilizamos para o desenvolvimento com o Terraform é o HCL, bem intuitivo e fácil de entender.
 
-Abaixo um exemplo dela: 
+Abaixo um exemplo dela:
 
 ```md
 
